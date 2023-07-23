@@ -1,0 +1,6 @@
+framework module Pods_PlayVideoYTPlayer {
+  umbrella header "Pods-PlayVideoYTPlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}
